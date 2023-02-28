@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 😄
+
+- 🔭 I’m currently working with Adrena team to release an awesome product
+
+- 📫 How to reach me: adrena.orex@proton.me
 
 <!--
 **adrena-orex/adrena-orex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
